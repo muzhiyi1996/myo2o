@@ -1,0 +1,13 @@
+2019-04-24 17:04:19.364 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==>  Preparing: select * from tb_shop where owner_id= ? 
+2019-04-24 17:04:19.419 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==> Parameters: 1(Integer)
+2019-04-24 17:07:25.456 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==>  Preparing: select * from tb_shop where shop_id= ? 
+2019-04-24 17:07:25.499 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==> Parameters: 1(Integer)
+2019-04-24 17:08:38.029 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==>  Preparing: select * from tb_shop where shop_id= ? 
+2019-04-24 17:09:50.660 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==>  Preparing: select * from tb_shop where owner_id= ? 
+2019-04-24 17:09:50.705 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==> Parameters: 1(Integer)
+2019-04-24 17:13:42.235 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==>  Preparing: select * from tb_shop where owner_id= ? 
+2019-04-24 17:13:42.283 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==> Parameters: 1(Integer)
+2019-04-24 17:13:42.314 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -<==      Total: 7
+2019-04-24 17:15:20.410 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==>  Preparing: select * from tb_shop where owner_id= ? 
+2019-04-24 17:15:20.455 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -==> Parameters: 1(Integer)
+2019-04-24 17:15:20.485 [main] DEBUG com.tyron.o2o.dao.ShopDao.selectShopByUserId -<==      Total: 1
